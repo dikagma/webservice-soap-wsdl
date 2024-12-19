@@ -5,3 +5,5 @@
 <img src="captures/4.png">
 <img src="captures/5.png">
 <img src="captures/6.png">
+<img src="captures/7.png">
+<img src="captures/8.png">
